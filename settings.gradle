@@ -1,0 +1,3 @@
+include ':RealMysql'
+include ':app'
+rootProject.name = "Cloud Chat"
